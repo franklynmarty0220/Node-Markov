@@ -1,0 +1,23 @@
+{
+  "name": "markov",
+  "version": "1.0.0",
+  "description": "",
+  "main": "makeText.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/franklynmarty0220/Node-Markov.git"
+  },
+  "author": "Franklyn Marty",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/franklynmarty0220/Node-Markov/issues"
+  },
+  "homepage": "https://github.com/franklynmarty0220/Node-Markov#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "process": "^0.11.10"
+  }
+}
